@@ -1,5 +1,5 @@
 package com.overstandapp.hateoas_backend.data;
-
+/*
 
 import com.overstandapp.hateoas_backend.domain.Capability;
 import com.overstandapp.hateoas_backend.domain.User;
@@ -9,14 +9,14 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/*
-This class is used to load the sample data each time the server starts/restarts
- */
+*/
+//This class is used to load the sample data each time the server starts/restarts
+ 
 //@Configuration
 public class InitialDataLoad {
 
 
-    
+
 /*
     @Bean
     CommandLineRunner LoadDB (CapabilityRepository capabilityRepository) {
